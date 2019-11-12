@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChipsEditText</string>
+    <string name="placeholder">Search</string>
+    <string name="add_chip">Add a chip</string>
+</resources>
